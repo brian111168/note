@@ -1,6 +1,6 @@
 # git 版本管理筆記
 ## git 區域分類
-![local分區]( /Users/zhangchenwei/Desktop/git分區.png)
+![local分區]( /Users/zhangchenwei/Desktop/note/pics/git分區.png)
 1. workspace：寫程式的區域
 2. staging area：準備push到本地資料庫的區域
 3. local repository master：本地資料庫
